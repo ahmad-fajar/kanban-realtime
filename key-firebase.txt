@@ -1,0 +1,13 @@
+<script src="https://www.gstatic.com/firebasejs/4.2.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyC608UR1qe6rdqhNesR5hFdhbxBJhFYFd8",
+    authDomain: "kanban-65a60.firebaseapp.com",
+    databaseURL: "https://kanban-65a60.firebaseio.com",
+    projectId: "kanban-65a60",
+    storageBucket: "kanban-65a60.appspot.com",
+    messagingSenderId: "862694843043"
+  };
+  firebase.initializeApp(config);
+</script>
